@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Workshop00&apos;&#x0D;&#x0A;- Original project: &apos;Workshop00&apos;&#x0D;&#x0A;- Original element: &apos;Workshop00/src/com.encore.service&apos;&#x0D;&#x0A;- Delete subpackages" description="Delete element" element1="/src&lt;com.encore.service.test" element2="/src&lt;com.encore.service" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1614214077384" subPackages="true" version="1.0"/>
+</session>

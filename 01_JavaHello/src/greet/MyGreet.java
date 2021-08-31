@@ -1,0 +1,17 @@
+package greet;
+
+public class MyGreet {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hello Java");
+
+	}
+}
+
+/*
+ * 01 프로젝트의 문제점
+ * "Hello Java" 만 출력하는 코드가 생산됨.
+ * 다른 인사말을 출력하려면 다시 코드를 수정해야됨.
+ * -> 유지보수성, 재사용성이 낮은 코드
+ */
